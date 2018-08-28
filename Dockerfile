@@ -55,6 +55,7 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
       python-pkg-resources \
       python3-setuptools \
       python3-pkg-resources \
+      python3.6 \
       git \
       unzip \
       sudo \
